@@ -1,1 +1,1 @@
-# lecture_cmake_template
+# C++ Make project template
