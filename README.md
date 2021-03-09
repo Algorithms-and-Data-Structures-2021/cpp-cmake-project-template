@@ -1,1 +1,1 @@
-# C++ Make project template
+# C++ CMake project template
